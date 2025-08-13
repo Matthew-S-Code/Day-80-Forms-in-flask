@@ -1,0 +1,23 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #27ece9;
+}
+
+h1, form{
+  text-align: center;
+  font-weight: bold;
+  width: 200px;
+  margin: auto;
+}
+
+h1{
+  border-bottom: 5px solid black;
+  margin-bottom: 50px; 
+}
+
+form{
+  border: 5px double green;
+  background-color: yellowgreen;
+}
